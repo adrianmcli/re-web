@@ -5,6 +5,9 @@ module Body = Body
 
 module Headers = Httpaf.Headers
 
+module Manual = Manual
+(** ReWeb user's manual *)
+
 module Request = Request
 (** Read requests. *)
 
