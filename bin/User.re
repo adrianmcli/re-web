@@ -1,3 +1,4 @@
+module ReWeb = ReWeb.Make(ReWeb.Reqd);
 open ReWeb;
 
 type t = {
